@@ -1,0 +1,20 @@
+{
+    "name": "herndlm/phpstan-classloader-reproducer",
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Herndlm\\PhpstanClassloaderReproducer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Herndl",
+            "email": "martin.herndl@icis.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}

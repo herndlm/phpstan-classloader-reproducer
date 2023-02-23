@@ -1,0 +1,6 @@
+parameters:
+    level: max
+    paths:
+        - src
+        - a.php
+        - b.php
